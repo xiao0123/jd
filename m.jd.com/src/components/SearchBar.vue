@@ -9,7 +9,7 @@
 		</div>
 		<div class="login"><a href="#">登录</a></div>
 	</div>
-	
+	<p>kelong</p>
 	
 </template>
 
